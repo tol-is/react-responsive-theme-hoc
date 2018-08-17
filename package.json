@@ -1,6 +1,6 @@
 {
   "name": "react-responsive-theme-hoc",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Responsive Theme HOC styled components ThemeProvider",
   "keywords": ["react", "styled-components", "responsive", "theme", "theme-provider"],
   "author": "Apostolos Christodoulou",
