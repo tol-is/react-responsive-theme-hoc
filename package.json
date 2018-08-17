@@ -1,7 +1,8 @@
 {
   "name": "react-responsive-theme-hoc",
   "version": "0.0.1",
-  "description": "Responsive Theme HOC for react",
+  "description": "Responsive Theme HOC styled components ThemeProvider",
+  "keywords": ["react", "styled-components", "responsive", "theme", "theme-provider"],
   "author": "Apostolos Christodoulou",
   "license": "MIT",
   "repository": "tol-is/react-responsive-theme-hoc",
