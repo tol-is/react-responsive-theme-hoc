@@ -82,4 +82,4 @@ https://github.com/styled-components/styled-components/issues/1333
 
 
 ## License
-MIT © [Apostolos Christodoulou Fischer](https://github.com/tol-is)
+MIT © [Apostolos Christodoulou](https://github.com/tol-is)
